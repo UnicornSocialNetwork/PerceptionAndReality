@@ -1,2 +1,2 @@
-# PerceptionAndReality
-PerceptionAndReality — an Experimental media mashup Generator!
+# RealityPerception
+RealityPerception — an Experimental media mashup Generator!
